@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-)!k8(i(@c!7nr4^7*!#(u!26o8(e7$)ou!)lno@)=%dph3^g$+'
+SECRET_KEY = '***'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -138,7 +138,7 @@ CART_SESSION_ID = 'cart'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'kzhestovskih2012@gmail.com'
-EMAIL_HOST_PASSWORD = 'ivmn nigx qmub swdk'
+EMAIL_HOST_PASSWORD = '***'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
